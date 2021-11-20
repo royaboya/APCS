@@ -1,3 +1,5 @@
+package Homework;
+
 public class Point {
     private int xCoor;
     private int yCoor;
