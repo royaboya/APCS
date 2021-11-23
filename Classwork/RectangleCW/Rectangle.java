@@ -1,4 +1,4 @@
-package Classwork;
+package Classwork.RectangleCW;
 
 public class Rectangle {
     private int width;

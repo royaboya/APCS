@@ -1,4 +1,4 @@
-package Classwork;
+package Classwork.RectangleCW;
 
 public class RectangleTester {
     public static void main(String[] args) {
