@@ -1,4 +1,4 @@
-package Homework;
+package Homework.PointHW;
 //testing class built by Huo Chen; Last Update 11/2/2021
 
 public class PointTester {

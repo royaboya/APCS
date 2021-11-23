@@ -1,4 +1,4 @@
-package Homework;
+package Homework.PointHW;
 
 public class Point {
     private int xCoor;
