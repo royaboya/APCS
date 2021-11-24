@@ -1,6 +1,6 @@
 package Classwork;
 
-public class FindNthPrime {
+public class FindNthPrime { // too lazy for scanner so i just made methods
     public static void main(String[] args) {
         System.out.println(listPrimes(5));
     }
