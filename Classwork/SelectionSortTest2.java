@@ -1,3 +1,5 @@
+package Classwork;
+
 public class SelectionSortTest2 {
   public static void main(String[] args) {
     int[] question1 = { 38, 11, -16, 88, 5, -34, -52, -59, -30, -4, -65, -93, 11, 84, -6, -1, 93, -46, -99, 66, -2, 10,
