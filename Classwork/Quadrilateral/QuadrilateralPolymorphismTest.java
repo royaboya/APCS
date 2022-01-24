@@ -6,6 +6,10 @@ public class QuadrilateralPolymorphismTest {
         Quadrilateral q2 = new Rectangle();
         Quadrilateral q3 = new Square();
 
+        PrintQObject(q1);
+        PrintQObject(q2);
+        PrintQObject(q3);
+
         Rectangle r1 = new Rectangle();
         Rectangle r2 = new Square();
 
@@ -27,6 +31,10 @@ public class QuadrilateralPolymorphismTest {
     }
 
     public static void printObject(Rectangle other) {
+        System.out.println(other);
+    }
+
+    public static void PrintQObject(Quadrilateral other) {
         System.out.println(other);
     }
 
