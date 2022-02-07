@@ -33,7 +33,4 @@ public class DaddyBear extends Bear{
         return getType() + " loves " + other.getType();
     }
 
-    
-
-
 }
