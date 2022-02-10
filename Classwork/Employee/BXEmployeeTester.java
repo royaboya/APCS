@@ -9,12 +9,13 @@ public class BXEmployeeTester
     //add your code here
 
     for(int i = 0; i < arr.length; i++){
-      low = i;
+      low = i; // reset low every time you move through the array and sort
         for(int j = i + 1; j < arr.length; j++){
             if(arr[j].compareTo(arr[low]) == -1){
                 low = j; // find smallest
             }
         }
+        // sort blah blah blah yea
         Comparable temp = arr[i];
         arr[i] = arr[low];
         arr[low] = temp;
