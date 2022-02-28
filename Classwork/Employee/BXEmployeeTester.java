@@ -1,7 +1,5 @@
 package Classwork.Employee;
 
-import java.security.spec.EllipticCurve;
-
 public class BXEmployeeTester
 {
   public static void selectionSort(Comparable[] arr)
