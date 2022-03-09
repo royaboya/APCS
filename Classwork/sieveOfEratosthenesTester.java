@@ -1,5 +1,3 @@
-package Classwork.Sieve;
-
 //Huo Chen 2/14/2022
 import java.util.ArrayList;
 
