@@ -1,5 +1,5 @@
 //Huo Chen, 3/9/2022
-public class StudentListTest
+public class StudentListTester
 {
   public static void main(String[] args)
   {
