@@ -1,4 +1,4 @@
-package Classwork;
+package Classwork.Sorting;
 
 import java.util.Arrays;
 

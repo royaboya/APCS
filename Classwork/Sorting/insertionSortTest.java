@@ -1,4 +1,4 @@
-package Classwork.Insertion;
+package Classwork.Sorting;
 
 public class insertionSortTest {
     public static void main(String[] args) {

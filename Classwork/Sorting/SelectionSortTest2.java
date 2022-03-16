@@ -1,4 +1,4 @@
-package Classwork;
+package Classwork.Sorting;
 
 public class SelectionSortTest2 {
   public static void main(String[] args) {
